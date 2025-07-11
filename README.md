@@ -22,10 +22,3 @@ To transform datasets to binary files for efficient IO, run:
 
 ```bash
 python3 codes/scripts/create_lmdb.py
-
-
-
-bash
-python3 codes/scripts/generate_mod_blur_LR_bic.py
-For evaluation of Anisotropic Gaussian kernels, we use DIV2KRK.
-(Note: You need to modify the file paths manually.)
