@@ -4,6 +4,7 @@ The above content contains all the code details of the "Kernel-Aware Dual-Domain
 ## Network Architecture
 
 
+<img width="3698" height="2835" alt="绘图8" src="https://github.com/user-attachments/assets/4ecbf7a2-22dd-4729-9cfb-2f615002bc32" />
 
 
 
