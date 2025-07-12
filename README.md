@@ -1,5 +1,8 @@
 # Kernel-Aware Dual-Domain Adaptive Network: Enhancing Blind Super-Resolution Performance
-The above content contains all the code details of the "Kernel-Aware Dual-Domain Adaptive Network: Enhancing Blind Super-Resolution Performance". This paper is currently submitted to The Vision Computer 
+The above content contains all the code details of the "Kernel-Aware Dual-Domain Adaptive Network: Enhancing Blind Super-Resolution Performance". This paper is currently submitted to The Vision Computer.
+
+## Network Architecture
+
 ## Dependencies
 
 - **OS**: Ubuntu 22.04  
