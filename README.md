@@ -22,7 +22,7 @@ We use DIV2K and Flickr2K as our training datasets (totally 3450 images).
 ``` 
 python3 codes/scripts/create_lmdb.py
 ```
-For evaluation of Isotropic Gaussian kernels (Gaussian8), we use five datasets, i.e., Set5, Set14, Urban100, BSD100 and Manga109.
+For evaluation of Isotropic Gaussian kernels (Gaussian8), we use four datasets, Set5, Set14, Urban100 and BSD100 .
 
 To generate LRblur/LR/HR/Bicubic datasets paths, run:
 ``` 
