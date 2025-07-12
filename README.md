@@ -44,7 +44,7 @@ For evaluation of Anisotropic Gaussian kernels, we use DIV2KRK.
 cd codes/config/KADANet
 python3 train.py -opt options/setting1/train_setting1_x4.yml
 ```
-**For distributed training：**
+**For distributed training:**
 ```
 cd codes/config/KADANet
 python3 -m torch.distributed.launch --nproc_per_node=4 --master_poer=4321 train.py -opt=options/setting1/train_setting1_x4.yml --launcher pytorch
