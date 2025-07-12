@@ -23,4 +23,5 @@ To transform datasets to binary files for efficient IO, run:
 ```bash
 python3 codes/scripts/create_lmdb.py
 
-For evaluation of Isotropic Gaussian kernels (Gaussian8), we use five datasets, i.e., Set5, Set14, Urban100, BSD100 and Manga109.
+
+
