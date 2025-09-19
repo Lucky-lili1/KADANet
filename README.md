@@ -1,5 +1,5 @@
 # Kernel-Aware Dual-Domain Adaptive Network: Enhancing Blind Super-Resolution Performance
-The above content contains all the code details of the "Kernel-Aware Dual-Domain Adaptive Network: Enhancing Blind Super-Resolution Performance". This paper is currently submitted to The Visual Computer.
+The above content contains all the code details of the "Kernel-Aware Dual-Domain Adaptive Network: Enhancing Blind Super-Resolution Performance". This paper is currently accepted to The Visual Computer.
 
 ## Network Architecture
 
